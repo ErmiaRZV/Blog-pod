@@ -1,7 +1,7 @@
 # Blog-pod
 **This project is responsive**
 
-- [Demo Project]( https://ermiarzv.github.io/blog-pod/)
+- [Demo Project](https://ermiarzv.github.io/Blog-pod/)
 - Developed by Ermia Razavi
 - Created - November 2024
 - 🤖 Technologies Used - Html , css(Tailwind) 
