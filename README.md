@@ -4,9 +4,8 @@
 - [Demo Project](https://ermiarzv.github.io/Blog-pod/)
 - Developed by Ermia Razavi
 - Created - November 2024
-- 🤖 Technologies Used - Html , css(Tailwind) 
+- 🤖 Technologies Used - Html , Tailwind css
 - How to reach me : with my
-[instagram](https://www.instagram.com/ermia_razavi.dev) and
 [linkedin](https://www.linkedin.com/in/ermia-razavi-a611312a3/)
 
 ![ErmiaRZV_The-Way_ Created by html5   css3 - Google Chrome 11_14_2024 12_02_04 AM](https://github.com/user-attachments/assets/d7fa9a48-ea99-4271-b502-73009e5b10e4)
